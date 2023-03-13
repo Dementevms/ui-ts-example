@@ -27,7 +27,6 @@
   },
   "scripts": {
     "build": "lerna run build",
-    "version": "lerna version",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   }
