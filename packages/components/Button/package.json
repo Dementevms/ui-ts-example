@@ -1,0 +1,26 @@
+{
+  "name": "@dementev_ms/button",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Dementevms <dementevms@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib",
+    "dist": "dist",
+    "stories": "stories"
+  },
+  "files": [
+    "dist",
+    "lib"
+  ],
+  "scripts": {
+    "build": "rollup --config ../../../rollup.config.js"
+  },
+  "devDependencies": {
+    "react": "18.x"
+  },
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/index.d.ts"
+}
