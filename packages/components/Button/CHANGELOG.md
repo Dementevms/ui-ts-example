@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/Dementevms/ui-ts-example/compare/@dementev_ms/button@1.2.0...@dementev_ms/button@1.2.1) (2023-04-06)
+
+
+### Bug Fixes
+
+* **components:** add publishConfig ([2a44a95](https://github.com/Dementevms/ui-ts-example/commit/2a44a95b13d3407ed62553e5ffebe6d56d7ef5f1))
+
+
+
+
+
 # [1.2.0](https://github.com/Dementevms/ui-ts-example/compare/@dementev_ms/button@1.1.0...@dementev_ms/button@1.2.0) (2023-04-06)
 
 
