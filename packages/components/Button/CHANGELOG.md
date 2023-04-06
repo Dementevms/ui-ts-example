@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/Dementevms/ui-ts-example/compare/@dementev_ms/button@1.1.0...@dementev_ms/button@1.2.0) (2023-04-06)
+
+
+### Features
+
+* **components:** execute build ([a96558c](https://github.com/Dementevms/ui-ts-example/commit/a96558cfe31bf01829b034126c888bc6e24060b2))
+
+
+
+
+
 # 1.1.0 (2023-03-13)
 
 
